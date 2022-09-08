@@ -3620,4 +3620,5 @@ www.google.*##.g:has(a[href*="easyatm.com.tw"])
 www.google.*##a[href*="easyatm.com.tw"]:upward(3)
 www.google.*##.g:has(a[href*="itsfun.com.tw"])
 www.google.*##a[href*="itsfun.com.tw"]:upward(3)
-
+www.google.*##.g:has(a[href*="notebz.com"])
+www.google.*##a[href*="notebz.com"]:upward(3)
