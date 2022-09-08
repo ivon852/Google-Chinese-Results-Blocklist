@@ -2,4 +2,4 @@
 
 Forked from [https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist).
 
-配合Android手機ublock origin自訂過濾列表所使用的網站清單。GHHbD_perma_ban_list.txt是純網址原始碼，converted_GHHbD_perma_ban_list.txt是適用於uBlock Origin的格式。
+配合Android手機uBlock Origin自訂過濾列表所使用的網站清單，除了中國以外還加入台灣的內容農場。`GHHbD_perma_ban_list.txt`是給uBlacklist用的純網址，`converted_GHHbD_perma_ban_list.txt`是適用於uBlock Origin的格式。
