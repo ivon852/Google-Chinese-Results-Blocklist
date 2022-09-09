@@ -1,0 +1,5 @@
+google.com#?#div[data-hveid]:has(> div > div > a[href*="kknews.cc"])
+google.com#?#div[jscontroller]:has(> a[href*="kknews.cc"])
+google.com#?#div[data-hveid]:has(> div > div > a[href*="read01.com"])
+google.com#?#div[jscontroller]:has(> a[href*="read01.com"])
+
