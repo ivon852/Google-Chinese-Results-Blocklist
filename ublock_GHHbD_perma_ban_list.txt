@@ -3616,4 +3616,5 @@ www.google.*##.g:has(a[href*="pharmknow.com"])
 www.google.*##a[href*="pharmknow.com"]:upward(1)
 www.google.*##.g:has(a[href*="mediatagtw.com"])
 www.google.*##a[href*="mediatagtw.com"]:upward(1)
-
+www.google.*##.g:has(a[href*="todohealth.com"])
+www.google.*##a[href*="todohealth.com"]:upward(1)

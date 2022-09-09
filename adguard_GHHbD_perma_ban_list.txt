@@ -3616,4 +3616,5 @@ google.com#?#div[data-hveid]:has(> div > div > a[href*="pharmknow.com"])
 google.com#?#div[jscontroller]:has(> a[href*="pharmknow.com"])
 google.com#?#div[data-hveid]:has(> div > div > a[href*="mediatagtw.com"])
 google.com#?#div[jscontroller]:has(> a[href*="mediatagtw.com"])
-
+google.com#?#div[data-hveid]:has(> div > div > a[href*="todohealth.com"])
+google.com#?#div[jscontroller]:has(> a[href*="todohealth.com"])
